@@ -46,7 +46,7 @@ I build things. I break things intentionally. And I understand the difference.
 | [Point and Say](https://github.com/ColdCof63e/PointAndSay) | Real-time AI Android app — Gemini API + ML Kit + CameraX + TTS for interactive object identification and speech practice. | Kotlin, Gemini API, ML Kit, CameraX |
 | [Human Activity Recognition](https://github.com/ColdCof63e/Human-Activity-Recognition) | Deep Neural Network on 561-feature sensor dataset — 94% classification accuracy with TensorFlow/Keras. | Python, TensorFlow, Keras |
 | [Dota 2 Results Prediction](https://github.com/ColdCof63e/Machine_Learning_Project) | ML prediction on 10,294 matches — PCA, feature engineering, Random Forest across 117 features. | Python, scikit-learn, Pandas |
-| [Bank Marketing Analysis](https://github.com/ColdCof63e/Machine_Learning_Project) | Predictive modelling on real-world marketing dataset — preprocessing, model training, performance analysis. | Python, R |
+| [Bank Marketing Analysis](https://github.com/ColdCof63e/Bank-Marketing) | Predictive modelling on real-world marketing dataset — preprocessing, model training, performance analysis. | Python, R |
 
 ### 🌐 Full-Stack & Web
 
