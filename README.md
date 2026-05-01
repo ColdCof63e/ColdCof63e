@@ -67,7 +67,7 @@ I build things. I break things intentionally. And I understand the difference.
 | Project | Description | Stack |
 |---|---|---|
 | [Stock Market Simulation](https://github.com/ColdCof63e/EAMProject) | Distributed microservices system — Account, Market, and Order services with Spring Boot. | Java, Spring Boot, REST APIs |
-| [Health Data Logger]([https://github.com/ColdCof63e/AdvancedJava-HealthDataLogger](https://github.com/ColdCof63e/CSharp-HealthDataLogger)) | Role-based desktop app built in two stacks — Java/JavaFX (Client-Server) and C#/.NET (Client-DB). | Java, JavaFX, C#, .NET |
+| [Health Data Logger]((https://github.com/ColdCof63e/AdvancedJava-HealthDataLogger)(https://github.com/ColdCof63e/CSharp-HealthDataLogger)) | Role-based desktop app built in two stacks — Java/JavaFX (Client-Server) and C#/.NET (Client-DB). | Java, JavaFX, C#, .NET |
 
 ### 📊 Data & Analytics
 
