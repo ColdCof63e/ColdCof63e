@@ -52,22 +52,22 @@ I build things. I break things intentionally. And I understand the difference.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Eatsy](#) | Full-stack food ordering platform — React frontend with RBAC, Node.js backend, secure auth, PostgreSQL. | React, Node.js, PostgreSQL |
-| [Restaurants App](#) | Full-stack web app with server-side rendering, MongoDB persistence, GitLab CI/CD deployment to Vercel. | Node.js, Handlebars, MongoDB, Vercel |
-| [Robe](#) | Responsive e-commerce site — account creation, product browsing, media-query layouts. | HTML, CSS, JavaScript |
+| [Eatsy](https://github.com/2025-Fall-ITE-5425-0TA/project-webmates) | Full-stack food ordering platform — React frontend with RBAC, Node.js backend, secure auth, PostgreSQL. | React, Node.js, PostgreSQL |
+| [Restaurants App](https://github.com/ColdCof63e/WebFramework1/tree/projectV1) | Full-stack web app with server-side rendering, MongoDB persistence, GitLab CI/CD deployment to Vercel. | Node.js, Handlebars, MongoDB, Vercel |
+| [Robe]([#](https://github.com/ColdCof63e/NSPB_final)) | Responsive e-commerce site — account creation, product browsing, media-query layouts. | HTML, CSS, JavaScript |
 
 ### 📱 Android & Mobile
 
 | Project | Description | Stack |
 |---|---|---|
-| [Workout App](#) | Android workout tracker with real-time Firebase sync and Jetpack Compose UI. | Kotlin, Firebase, Jetpack Compose |
+| [Workout App](https://github.com/ColdCof63e/AndroidDevelopment1/tree/project) | Android workout tracker with real-time Firebase sync and Jetpack Compose UI. | Kotlin, Firebase, Jetpack Compose |
 
 ### ☕ Backend & Systems
 
 | Project | Description | Stack |
 |---|---|---|
 | [Stock Market Simulation](https://github.com/ColdCof63e/EAMProject) | Distributed microservices system — Account, Market, and Order services with Spring Boot. | Java, Spring Boot, REST APIs |
-| [Health Data Logger](#) | Role-based desktop app built in two stacks — Java/JavaFX (Client-Server) and C#/.NET (Client-DB). | Java, JavaFX, C#, .NET |
+| [Health Data Logger]([https://github.com/ColdCof63e/AdvancedJava-HealthDataLogger](https://github.com/ColdCof63e/CSharp-HealthDataLogger)) | Role-based desktop app built in two stacks — Java/JavaFX (Client-Server) and C#/.NET (Client-DB). | Java, JavaFX, C#, .NET |
 
 ### 📊 Data & Analytics
 
