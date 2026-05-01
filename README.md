@@ -54,7 +54,7 @@ I build things. I break things intentionally. And I understand the difference.
 |---|---|---|
 | [Eatsy](https://github.com/2025-Fall-ITE-5425-0TA/project-webmates) | Full-stack food ordering platform — React frontend with RBAC, Node.js backend, secure auth, PostgreSQL. | React, Node.js, PostgreSQL |
 | [Restaurants App](https://github.com/ColdCof63e/WebFramework1/tree/projectV1) | Full-stack web app with server-side rendering, MongoDB persistence, GitLab CI/CD deployment to Vercel. | Node.js, Handlebars, MongoDB, Vercel |
-| [Robe]([#](https://github.com/ColdCof63e/NSPB_final)) | Responsive e-commerce site — account creation, product browsing, media-query layouts. | HTML, CSS, JavaScript |
+| [Robe](https://github.com/ColdCof63e/NSPB_final) | Responsive e-commerce site — account creation, product browsing, media-query layouts. | HTML, CSS, JavaScript |
 
 ### 📱 Android & Mobile
 
